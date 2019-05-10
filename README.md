@@ -3,9 +3,9 @@ Serverless Application With Node.js CN
 
 第一部分 无服务器披萨店
 
-[第一章 Claudia对无服务器的介绍](./ch01/ch01.dm)
+[第一章 Claudia对无服务器的介绍](./ch01/ch01.md)
 
-[第二章 创建第一个无服务器API](./ch02/ch02.dm)
+[第二章 创建第一个无服务器API](./ch02/ch02.md)
 
 第三章 我们保证（`Promise()`），异步工作是很简单的
 
